@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(51, 51, 51, 0.856);
+    text-align: center;
+    margin-top: 250px;
+}
+.txt{
+    color: azure;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+.btn1 {
+    background-color: red; 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.btn2 {
+    background-color: greenyellow; 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-left: 50px;
+}
